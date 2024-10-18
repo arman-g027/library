@@ -1,0 +1,14 @@
+.books {
+    text-align: center;
+}
+
+.name {
+    font-size: 21px;
+    transition: color 0.5s;
+    cursor: pointer;
+    padding: 10px; 
+}
+
+.name:hover {
+    color: #1677ff;
+}

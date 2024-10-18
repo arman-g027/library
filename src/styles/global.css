@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+
+#div_container {
+    display: flex;
+    align-items: center;
+    flex-direction:column;
+}
